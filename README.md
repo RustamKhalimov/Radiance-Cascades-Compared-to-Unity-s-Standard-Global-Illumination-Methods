@@ -6,11 +6,17 @@ DIGRA conference experiment setup
 
 This repository contains the experimental materials for the paper:
 
-
+This project explores Radiance Cascades and compares it with Unity's Standard Global Illumination methods.
 
 "Comparative Evaluation of Real-Time Global Illumination Methods in Unity URP"
 
+Learning Objectives
+Understand how different global illumination methods work.
+Explore the Radiance Cascades technique.
+Compare rendering approaches used in Unity.
 
+Git Practice
+This change was made as part of an Agile and Git practice exercise
 
 \## Contents
 
